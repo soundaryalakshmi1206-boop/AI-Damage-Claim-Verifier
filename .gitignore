@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Environment Variables
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Python Cache
+.pytest_cache/
+
+# Outputs (optional)
+code/outputs/*.csv
