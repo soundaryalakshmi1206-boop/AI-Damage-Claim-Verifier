@@ -161,11 +161,6 @@ hackerrank/
 ├── main.py
 └── README.md
 
-# 🏗️ System Architecture and work flow
-
-<p align="center">
-  <img src="assets/"C:\Users\Asus\Downloads\ChatGPT Image Jun 21, 2026, 01_13_17 AM.png" width="900">
-</p>
 
 
 
@@ -306,22 +301,7 @@ hackerrank/
     ├── evidence_requirements.csv
     └── images/
 
-    # 💻 Console Output
-
-<p align="center">
-  <img src="assets/"C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot 2026-06-21 021335.png" width="900">
-</p>
-
-<p align="center">
-  <img src="assets/"C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot 2026-06-21 021355.png"
-  " width="900">
-</p>
-
-# 📊 Output
-
-<p align="center">
-  <img src="assets/"C:\Users\Asus\OneDrive\Pictures\Screenshots\Screenshot 2026-06-21 021414.png" width="900">
-</p>
+   
 
 ## LM Studio Setup
 
